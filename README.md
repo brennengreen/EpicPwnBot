@@ -5,8 +5,10 @@ If you thought that a message was funny you could give that person a "pwn point"
 given cool rewards at the end of each month if they were in the top 3.
 
 ## Technologies:
-Hosting: Amazon Web Services
-Database: sqlite3
-Programming Language: JavaScript
+**Hosting**: Amazon Web Services 
+
+**Database**: sqlite3
+
+**Programming Language**: JavaScript
  - Main Libraries: Discord.JS and Sequelize
  
